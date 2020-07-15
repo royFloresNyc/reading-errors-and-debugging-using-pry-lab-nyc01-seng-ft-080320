@@ -4,6 +4,7 @@ require 'pry'
 def get_user_input
   gets.chomp
   binding.pry
+  puts "prying into get_user_input"
 end
 
 def prompt_user
