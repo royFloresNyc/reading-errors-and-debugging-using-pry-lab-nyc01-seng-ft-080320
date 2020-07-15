@@ -19,7 +19,6 @@ def selection(num)
     binding.pry
      "HAM HAM HAM IN MY TUMMY"
   end
-  puts "end of method"
 end
 
 def runner
